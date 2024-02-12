@@ -1,6 +1,6 @@
-# CSE 536: Assignment 4: Trap and Emulate Virtualization
+# Trap and Emulate Virtualization
 
-Please refer to the handout on Canvas.
+Implemented Trap and Emulate Virtualization on xv6 operating system, to Run a Virtual Machine and executing RISCV commands within it.
 
 ## Acknowledgement
 
